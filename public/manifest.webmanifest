@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Tota Reads",
+  "short_name": "Tota Reads",
+  "description": "Scan a textbook page, tap a line to hear it, and get it explained in simple words.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F4EF",
+  "theme_color": "#1D2840",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

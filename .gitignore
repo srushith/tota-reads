@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.*
+
+# Android: never commit signing keys or build outputs
+*.keystore
+*.jks
+*.apk
+*.aab
+*.idsig
+android/*
+!android/twa-manifest.json

@@ -1,0 +1,44 @@
+{
+  "packageId": "com.totareads.app",
+  "host": "tota-reads-297128331697.asia-south1.run.app",
+  "name": "Tota Reads",
+  "launcherName": "Tota Reads",
+  "display": "standalone",
+  "orientation": "portrait",
+  "themeColor": "#1D2840",
+  "themeColorDark": "#1D2840",
+  "navigationColor": "#1D2840",
+  "navigationColorDark": "#1D2840",
+  "navigationDividerColor": "#1D2840",
+  "navigationDividerColorDark": "#1D2840",
+  "backgroundColor": "#F5F4EF",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://tota-reads-297128331697.asia-south1.run.app/icon-512.png",
+  "maskableIconUrl": "https://tota-reads-297128331697.asia-south1.run.app/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:/Users/LENOVO/android-tools/tota-reads-keys/tota-reads-release.keystore",
+    "alias": "totareads"
+  },
+  "appVersionCode": 1,
+  "appVersion": "1.0.0",
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://tota-reads-297128331697.asia-south1.run.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://tota-reads-297128331697.asia-south1.run.app/",
+  "minSdkVersion": 24,
+  "fingerprints": [
+    {
+      "name": "release",
+      "value": "7C:F2:57:77:B9:55:3A:AB:AC:05:AB:FF:9D:23:3D:70:30:ED:13:51:85:77:6A:7B:B9:BF:14:82:44:79:A5:9C"
+    }
+  ],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": []
+}

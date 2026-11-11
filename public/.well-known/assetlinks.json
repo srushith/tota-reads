@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.totareads.app",
+      "sha256_cert_fingerprints": [
+        "7C:F2:57:77:B9:55:3A:AB:AC:05:AB:FF:9D:23:3D:70:30:ED:13:51:85:77:6A:7B:B9:BF:14:82:44:79:A5:9C"
+      ]
+    }
+  }
+]

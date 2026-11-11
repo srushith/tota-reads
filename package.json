@@ -1,0 +1,14 @@
+{
+  "name": "tota-reads",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Scan a textbook page in an Indian language, hear each line read aloud, and get it simplified, powered by Gemini.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
